@@ -1,16 +1,11 @@
-table {
+table, td, th {
   border: 1px solid black;
   border-spacing: 1px;
-  margin: auto;
-}
-
-td {
-  border: 1px solid black;
   padding: 1px;
 }
 
 .middle {
-  text-align: center;
+  margin: auto;
 }
 
 .center {
